@@ -1,15 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
-		<title>Application</title>
-		<description>Most recent changes with links to updates</description>
-		<language>en</language>
-		<item>
-			<enclosure url="http://git.ad.itks.ru:3000/twint_soft/TwintAreaPanel/archive/22.8.18.1.zip"
-					   sparkle:version="1.0.0.0"
-					   sparkle:signature="5I/E6hzpF+I2rSvcl64A52+P7xwQfW+Ern8UYlLfHPErb3bwxi0j/fJfiYpplQ18YQ+k5NItBqqUahf+bQ/KDQ=="
-					   type="application/octet-stream" 
-					   sparkle:os="windows"/>
-		</item>
+	<title>Application</title>
+	<description>Most recent changes with links to updates</description>
+	<language>en</language>
+	<item>
+		<title>Application 22.8.18.1</title>
+		<pubDate>Sat, 17 Sep 2022 17:39:24 +05:00</pubDate>
+		<enclosure url="TwintAreaSetup%2022.8.18.1.msi" sparkle:version="22.8.18.1" sparkle:shortVersionString="22.8.18" length="172032" sparkle:os="windows" type="application/octet-stream"/>
+	</item>
 	</channel>
 </rss>
