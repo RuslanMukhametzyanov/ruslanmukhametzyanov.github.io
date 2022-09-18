@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>Application</title>
-		<link>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/appcast.xml</link>
+		<link>https://ruslanmukhametzyanov.github.io/appcast.xml</link>
 		<description>Most recent changes with links to updates</description>
 		<language>en</language>
 		<item>
