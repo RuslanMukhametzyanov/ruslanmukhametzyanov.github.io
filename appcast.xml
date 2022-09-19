@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
-		<title>Application</title>
+		<title>TwintAreaPanel</title>
 		<link>https://ruslanmukhametzyanov.github.io/appcast.xml</link>
 		<description>Most recent changes with links to updates</description>
 		<language>en</language>
 		<item>
-			<title>Application 22.8.18.1</title>
+			<title>TwintAreaPanel 22.8.18.1</title>
 			<pubDate>Sun, 18 Sep 2022 15:22:01 +05:00</pubDate>
 			<enclosure url="https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.1.zip"
 				   sparkle:version="22.8.18.1"
@@ -15,6 +15,17 @@
 				   sparkle:os="windows"
 				   type="application/zip"
 				   sparkle:signature="sqS3iSIY+ipC1ZWMRaIkNi7KjNhPhMQFy2aF/8MmfhJyw2Fp630VC72VQbqWUuYoaQGZsOFGtzUry5XVFlblDA=="/>
+		</item>
+	</channel>
+	
+	<channel>
+		<title>TwintHeatPanel</title>
+		<description>Most recent changes with links to updates</description>
+		<language>en</language>
+		<item>
+			<title>TwintHeatPanel 22.6.16.1</title>
+			<pubDate>Mon, 19 Sep 2022 15:19:14 +05:00</pubDate>
+			<enclosure url="TwintHeatPanel_22.6.16.1.zip" sparkle:version="22.6.16.1" sparkle:shortVersionString="22.6.16" length="267886" sparkle:os="windows" type="application/zip" sparkle:signature="h+qyxmQe2Z9XjW1f0XPzUdD9lo6V5ITvV8HuWgZ8gkcEzSI2TCDlmJIhMbHeGRYvaHkJnxyus2wwnZyoDn96AQ=="/>
 		</item>
 	</channel>
 </rss>
