@@ -16,5 +16,16 @@
 				   type="application/zip"
 				   sparkle:signature="sqS3iSIY+ipC1ZWMRaIkNi7KjNhPhMQFy2aF/8MmfhJyw2Fp630VC72VQbqWUuYoaQGZsOFGtzUry5XVFlblDA=="/>
 		</item>
+		<item>
+			<title>Application 22.8.18.2</title>
+			<pubDate>Tue, 27 Sep 2022 15:24:50 +05:00</pubDate>
+			<enclosure sparkle:version="22.8.18.2"
+				   sparkle:signature="+Uz1W4zMILJmY5OxQnulzYtPZC63NdgzOKsFpZ1Kzj9CM8w3iRGVdZRM04kmYaanykx7Vysa5y1t0DPO/jN1Bw=="
+				   type="application/zip"
+				   sparkle:os="windows"
+				   length="657631"
+				   sparkle:shortVersionString="22.8.18"
+				   url="https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.2.zip"/>
+		</item>
 	</channel>
 </rss>
