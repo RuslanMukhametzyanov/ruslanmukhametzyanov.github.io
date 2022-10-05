@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updates>
-  <item>
-    <version>22.8.18.1</version>
-    <url>https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.1.zip</url>
-    <changelog></changelog>
-  </item>
-  <item>
-    <version>22.8.18.2</version>
-    <url>https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.2.zip</url>
-    <changelog></changelog>
-  </item>
-</updates>
+<app>
+  <title>TWINT AREA</title>
+  <description></description>
+  <updates>
+    <item>
+      <version>22.8.18.1</version>
+      <url>https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.1.zip</url>
+      <changelog></changelog>
+    </item>
+    <item>
+      <version>22.8.18.2</version>
+      <url>https://ruslanmukhametzyanov.github.io/TwintAreaPanel_22.8.18.2.zip</url>
+      <changelog></changelog>
+    </item>
+  </updates>
+</app>
+
