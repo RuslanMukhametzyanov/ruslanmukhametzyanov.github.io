@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app>
   <title>TWINT AREA</title>
-  <description></description>
+  <description>Квартирография. Панель Revit</description>
   <updates>
     <item>
       <version>22.8.18.1</version>
@@ -15,4 +15,14 @@
     </item>
   </updates>
 </app>
-
+<app>
+  <title>TWINT HEAT</title>
+  <description></description>
+  <updates>
+    <item>
+      <version>22.6.16.1</version>
+      <url>https://ruslanmukhametzyanov.github.io/TwintHeatPanel_22.6.16.1.zip</url>
+      <changelog></changelog>
+    </item>
+  </updates>
+</app>
