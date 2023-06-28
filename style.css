@@ -14,8 +14,8 @@ body {
 }
 
 .container {
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
     background-color: #ccc;
     border-radius: 50%;
     border: 15px solid;
@@ -26,7 +26,7 @@ body {
 
 .container div {
     height: 50%;
-    width: 200px;
+    width: 120px;
     position: absolute;
     clip-path: polygon(100% 0, 50% 100%, 0 0);
     transform: translateX(-50%);
@@ -39,7 +39,7 @@ body {
     font-weight: bold;
     font-family: sans-serif;
     color: #fff;
-    left: 135px;
+    left: 75px;
 }
 
 .container .one {
@@ -84,8 +84,9 @@ body {
 
 .arrow {
     position: absolute;
-    top: 0;
+    top: 23%;
     left: 50%;
+    z-index: 10;
     transform: translateX(-50%);
     color: #fff;
 }
@@ -105,10 +106,10 @@ body {
     text-transform: uppercase;
     border: 8px solid #fff;
     font-weight: bold;
-    font-size: 20px;
-    color: #e2e2e2;
-    width: 80px;
-    height: 80px;
+    font-size: 10px;
+    color: #5c5c5c;
+    width: 50px;
+    height: 50px;
     font-family: sans-serif;
     border-radius: 50%;
     cursor: pointer;
