@@ -78,6 +78,10 @@ function getResult(discount) {
         dbox('Не повезло', 'Попробуйте в следующий раз');
     }
 
+    setTimeout(sendDiscountToTg, 3000, discount)
+}
+
+function sendDiscountToTg(discount) {
     tg.sendData(discount.toString());
 }
 
